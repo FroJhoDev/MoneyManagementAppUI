@@ -1,8 +1,8 @@
 # Money Management App UI
 
 A new Flutter project. Created for the videos on my channel.
-- Part 01: 
-- Part 03:
+- Part 01: https://youtu.be/7EW5-Ov2-ys
+- Part 02: https://youtu.be/4-T15YEvfMQ
 
 ## Getting Started
 
@@ -18,5 +18,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Home UI]()
-![Dashboard UI]()
+![Home UI](https://i.ibb.co/TmK6VWn/Screenshot-1562013271.png)
+![Dashboard UI](https://i.ibb.co/xYGbRpL/Screenshot-1562013278.png)
