@@ -1,5 +1,9 @@
 # Money Management App UI
+## Screenshots
+![Home UI](https://i.ibb.co/TmK6VWn/Screenshot-1562013271.png)
+![Dashboard UI](https://i.ibb.co/xYGbRpL/Screenshot-1562013278.png)
 
+## YouTube SpeedCode
 A new Flutter project. Created for the videos on my channel.
 - Part 01: https://youtu.be/7EW5-Ov2-ys
 - Part 02: https://youtu.be/4-T15YEvfMQ
@@ -16,7 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-
-## Screenshots
-![Home UI](https://i.ibb.co/TmK6VWn/Screenshot-1562013271.png)
-![Dashboard UI](https://i.ibb.co/xYGbRpL/Screenshot-1562013278.png)
